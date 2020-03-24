@@ -1,0 +1,51 @@
+
+/* slider */
+.bx-wrapper {
+    margin-left: 20px;
+    width: 1100px;
+    border: none;
+}
+.title{
+    margin-left: 30px;
+    font-size: 11px;
+    line-height: 30px;
+    font-weight: 500;
+    font-family: Arial;
+    letter-spacing: 1pt;
+}
+/* list mouse hover */
+.gallery ul{
+    overflow: hidden;
+}
+.gallery li{
+    float: left;
+    margin: 5px 5px;
+    width: 350px;
+}
+.gallery li .last{
+    margin-top: 0%;
+}
+.gallery li a span{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 350px;
+}
+.gallery li a span img{
+    width: 100%;
+}
+.gallery li a span em{
+    visibility: hidden;
+    position: absolute;
+    bottom: 0%;
+    left: 0;
+    width: 100%;
+    padding-top: 5%;
+    padding: 15px;
+    letter-spacing: 1pt;
+    background: rgb(255, 255, 255, 0.8);
+   
+}
+.gallery li a span:hover em{
+    visibility: visible;
+}
