@@ -1,6 +1,7 @@
 # 쇼핑몰 
+http://modernif.co.kr/ 사이트를 참고하여 만들었습니다.
 
-#### index, login, join, mypage, order 페이지로 구성
+#### index, login, join, mypage, order 페이지
 - index 페이지
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/50347542/77743452-70801b00-705b-11ea-9d97-21ae42679573.gif)
@@ -20,3 +21,4 @@
 - order 페이지
 
 ![order](https://user-images.githubusercontent.com/50347542/77743956-37947600-705c-11ea-895e-45de819912f9.png)
+
